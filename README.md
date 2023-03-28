@@ -2,7 +2,7 @@
 - 👀 I’m interested in computers, nature, philosophy, and music.
 - 🌱 I’m currently learning to quit social media.
 - 💞️ I’m looking to collaborate on nothing (at the moment)!
-- 📫 How to reach me (biomaskin@protonmail.com)
+- 📫 How to reach me (biomaskin@proton.me)
 
 <!---
 marius-haugan/marius-haugan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
