@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marius-haugan
 - 👀 I’m interested in computers, nature, philosophy, and music.
-- 🌱 I’m currently learning Blazor Server.
+- 🌱 I’m currently learning Azure, networking, and linux.
 - 💞️ I’m looking to collaborate on nothing (at the moment)!
 - 📫 How to reach me (biomaskin@proton.me)
 
